@@ -1,6 +1,8 @@
 {
   "AutomaticDoor":"Automatic Door",
   "ItemHolder":"Item Positioner",
+  "Grill":"Grill",
   "Till":"Real Till",
-  "Fridge":"Fridge"
+  "Fridge":"Fridge",
+  "Trash Can":"Trash Can"
 }
