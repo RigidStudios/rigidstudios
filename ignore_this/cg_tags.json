@@ -6,5 +6,6 @@
   "Fridge":"Fridge",
   "TrashCan":"Trash Can",
   "FlickeringLight":"Broken Light",
-  "Item":"Separate Item"
+  "Item":"Separate Item",
+  "Bus":"Customer Bus"
 }
